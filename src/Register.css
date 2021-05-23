@@ -1,0 +1,13 @@
+.register,
+.reset {
+  background-color: rgb(85, 103, 204);
+  width: 30%;
+  margin: 0 auto;
+  margin-top: 12.5%;
+  padding: 30px 15px;
+  border-radius: 5px;
+  color: white;
+}
+a {
+  color: white;
+}
