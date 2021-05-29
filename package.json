@@ -1,5 +1,5 @@
 {
-  "homepage": "http://tharun-coder.github.io/React_Password",
+  "homepage": "http://tharun-coder.github.io/Password_Task_React/",
   "name": "password_reset",
   "version": "0.1.0",
   "private": true,
@@ -41,6 +41,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.1.0"
+    "gh-pages": "^3.2.0"
   }
 }
